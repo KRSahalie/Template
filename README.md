@@ -50,5 +50,4 @@ git push origin mi-rama
 
 ---
 
-¡Listo! Ahora este template está listo para que cualquier estudiante lo use como base para su propio proyecto universitario.
-
+Creado por Kendy Arias, para el mini taller #1 de Sistemas Embebidos, IIS 2025.
