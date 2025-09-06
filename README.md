@@ -41,6 +41,14 @@ git push origin mi-rama
 
 ---
 
+## Usar este repo como template en GitHub
+
+- Una vez que el repositorio esté en GitHub, se puede marcar como **Template Repository** en la configuración.  
+- Luego, al crear un nuevo repositorio, los estudiantes pueden usar **“Use this template”** para que su repo inicial contenga toda la estructura y archivos de este template.  
+- Esto permite que cada estudiante tenga su propio repositorio basado en la misma plantilla, sin afectar el repo original.
+
+---
+
 ## Buenas prácticas
 
 - Mantener el repo limpio usando .gitignore  
