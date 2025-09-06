@@ -18,8 +18,7 @@ Los estudiantes pueden clonar este repo y usarlo como base para sus propios repo
 
 1. **Clonar el repositorio**
 
-git clone https://github.com/tuusuario/template.git
-cd template
+git clone https://github.com/KRSahalie/Template.git cd template
 
 2. **Crear tu rama personal** (opcional, pero recomendado)
 
